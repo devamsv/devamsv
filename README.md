@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I'm Devendhiran </h1>
 <h2 align="center"> I'm an AI-Powered Data Analyst | Junior Data Scientist</h2>
-<h3 align="center"> Data + ML Enthusiast 🚀</h3>
+<h3 align="center"> Data + AI/ML Enthusiast 🚀</h3>
 
 ---
 
@@ -136,21 +136,6 @@ A **classic industry problem** in fintech and risk analytics.
 - 🔧 ML model tuning
 - 🧠 Business problem framing
 - 🗣️ Data storytelling & communication
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devamsv&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devamsv" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamsv&layout=compact"/>
-</p>
-
----
 
 ## 🤝 Let’s Connect
 
