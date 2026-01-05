@@ -1,8 +1,8 @@
 
 
 <h1 align="center">Hi 👋 I'm Devendhiran </h1>
-<h2 align="center"> I'm an AI-Powered Data Analyst</h2>
-<h3 align="center">Junior Data Scientist | Data + ML Enthusiast 🚀</h3>
+<h2 align="center"> I'm an AI-Powered Data Analyst | Junior Data Scientist</h2>
+<h3 align="center"> Data + ML Enthusiast 🚀</h3>
 
 ---
 
