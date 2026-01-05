@@ -1,7 +1,4 @@
-<!-- Header Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120"/>
-</p>
+
 
 <h1 align="center">Hi 👋 I'm Devendhiran </h1>
 <h2 align="center"> I'm an AI-Powered Data Analyst</h2>
@@ -145,20 +142,20 @@ A **classic industry problem** in fintech and risk analytics.
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devamsv&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devamsv" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamsv&layout=compact"/>
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *Add your LinkedIn link*
-- 📧 Email: *your.email@example.com*
+- 💼 LinkedIn: [*(https://www.linkedin.com/in/mdeva-datasci/)*]
+- 📧 Email: *mdeva.avs@gmail.com*
 
 > 💡 **Open to Data Analyst / Junior Data Scientist opportunities**
 
