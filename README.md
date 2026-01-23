@@ -1,6 +1,5 @@
 <div align="center">
-# 👋 Hi, I’m Devendhiran M
-# 👋 Hi, I’m an Applied Data Scientist 🤖📊
+** 👋 Hi, I’m Devendhiran M**
 
 **Applied Data Scientist | AI & ML | GenAI**  
 **Python • SQL • AWS • APIs | LLMs • RAG & Prompt Engineering**  
