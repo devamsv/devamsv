@@ -1,149 +1,101 @@
+<div align="center">
+# 👋 Hi, I’m Devendhiran M
+# 👋 Hi, I’m an Applied Data Scientist 🤖📊
 
+**Applied Data Scientist | AI & ML | GenAI**  
+**Python • SQL • AWS • APIs | LLMs • RAG & Prompt Engineering**  
+🚀 *Building scalable AI solutions aligned with real-world business needs*
 
-<h1 align="center">Hi 👋 I'm Devendhiran </h1>
-<h2 align="center"> I'm an AI-Powered Data Analyst | Junior Data Scientist</h2>
-<h3 align="center"> Data + AI/ML Enthusiast 🚀</h3>
+<br>
+
+<a href="https://www.linkedin.com/in/mdeva-datasci/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mdeva.avs@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-I am an **AI-powered Data Analyst and Junior Data Scientist** passionate about turning raw data into **meaningful business insights**.  
-I work across **data analysis, visualization, and machine learning basics**, building **real-world, end-to-end projects** that mirror industry use cases.  
-Currently focused on becoming **job-ready** by strengthening fundamentals, project depth, and storytelling with data.
+I am an **Applied Data Scientist** with a strong foundation in **Artificial Intelligence, Machine Learning, and Generative AI**, transitioning into data-driven system development after **9+ years of professional experience** in high-responsibility environments.
+
+I focus on building **scalable, practical AI solutions** that align with **real-world business needs, operational constraints, and measurable outcomes**.
+
+My approach to data science is **hands-on and execution-oriented** — moving beyond theory to **design, develop, test, and iterate** on AI systems that deliver value in production.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🏗️ What I Build & Work On
 
-### 🧑‍💻 Programming & Data
-- 🐍 **Python**
-- 🧮 **Pandas**
-- 🔢 **NumPy**
-
-### 📊 Data Visualization
-- 📈 **Matplotlib**
-- 🎨 **Seaborn**
-- 🧩 **Plotly**
-
-### 🗄️ Databases & Querying
-- 🧠 **SQL**
-  - MySQL (Basics)
-  - PostgreSQL (Basics)
-
-### 🔍 Data Analysis
-- 🧹 Data Cleaning
-- 🔬 Exploratory Data Analysis (EDA)
-- 🧩 Feature Engineering (Basic)
-
-### 🤖 Machine Learning (Beginner → Job-Ready)
-- 📘 Supervised Learning
-- 📊 Classification & Regression
-- 🧪 Model Evaluation (Accuracy, Precision, Recall, ROC)
-- ⚙️ Scikit-learn Basics
-
-### 🧰 Tools & Tech
-- 🔗 Git & GitHub
-- 🌐 APIs (Basic usage)
-- 📓 Jupyter Notebook
-- 🖥️ VS Code
-- 📊 Power BI (Beginner)
+- 🤖 **RAG-based AI systems** for document and knowledge-centric use cases  
+- 💬 **LLM-powered applications** with controlled, reliable responses  
+- 📈 **Predictive ML solutions** for structured business data  
+- ⚙️ **End-to-end AI workflows** designed for scalability and robustness  
+- ☁️ Cloud-aware AI pipelines with deployment-ready architecture  
 
 ---
 
-## 🚀 Projects (Real-World Focused)
+## 🛠️ Skills & Technical Stack
 
-### 📌 Cricbuzz Live Dashboard 🏏
-**Problem:**  
-Deliver real-time cricket insights in a clean, interactive dashboard.
+### 💻 Programming & Data
+- Python, SQL  
+- Data analysis, API integration, workflow automation  
 
-**Data:**  
-Live / scraped match data (scores, teams, performance metrics)
+### 📊 Machine Learning & AI
+- Exploratory Data Analysis (EDA)  
+- Feature engineering & model evaluation  
+- Supervised & unsupervised learning  
+- Predictive modeling for structured data  
 
-**Tools & Skills:**  
-`Python`, `APIs`, `EDA`, `Visualization`, `Dashboard Design`
+### 🤖 Generative AI & LLMs
+- Large Language Models (LLMs)  
+- Prompt engineering for reliable AI behavior  
+- Retrieval-Augmented Generation (RAG)  
+- Embeddings & vector databases for semantic search  
 
-**Outcome & Insights:**  
-- Live match performance tracking  
-- Player & team trend analysis  
-- Interactive visuals for decision-making
+### ☁️ Cloud & Deployment
+- AWS (foundational)  
+- Cloud-based AI & data workflows  
+- Deployment-aware system design  
 
-**Why it matters:**  
-Simulates **real-time analytics dashboards** used in media & sports analytics.
-
----
-
-### 📌 Amazon Decade Sales Analysis 📦
-**Problem:**  
-Analyze 10 years of e-commerce sales data to uncover trends and growth patterns.
-
-**What I did:**  
-- Cleaned and prepared large datasets  
-- Performed in-depth EDA  
-- Built business-driven visualizations
-
-**Key Insights:**  
-- Category-wise revenue growth  
-- Customer behavior trends  
-- Seasonal & long-term performance patterns
-
-**Tools:**  
-`Python`, `Pandas`, `Seaborn`, `Matplotlib`, `EDA`
-
-**Why it matters:**  
-Reflects **real retail & business analytics problems**.
+### 🧰 Tools & Frameworks
+- Git & GitHub  
+- Jupyter Notebook, VS Code  
+- REST APIs  
 
 ---
 
-### 📌 Credit Card Fraud Detection 💳
-**Problem:**  
-Detect fraudulent transactions using machine learning.
+## 🌟 Key Takeaways / Strengths
 
-**ML Approach:**  
-- Data preprocessing & imbalance handling  
-- Feature selection  
-- Model training & evaluation
-
-**Algorithms Used:**  
-- Logistic Regression  
-- Decision Tree  
-- Random Forest (basic)
-
-**Evaluation Metrics:**  
-Accuracy, Precision, Recall, ROC-AUC
-
-**Why it matters:**  
-A **classic industry problem** in fintech and risk analytics.
+- ✅ Strong **execution mindset** with ownership and accountability  
+- 🔄 Experience across the **end-to-end AI lifecycle**  
+- 🧠 Ability to translate **real-world requirements into structured AI solutions**  
+- 🧹 Focus on **clean, scalable, and maintainable systems**  
+- 📚 Continuous learner with a **production-oriented AI mindset**  
 
 ---
 
-## 🎞️ Data Science in Action (Animations)
+## 🎯 Career Goals
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="250"/>
-</p>
+- Applied Data Scientist  
+- AI / ML Engineer  
+- GenAI Developer  
 
-📌 *Tip:* Place GIF files in a `/assets` folder and link them here for faster loading.
+I am particularly interested in **product-based companies and AI-driven startups** building **impactful, real-world AI solutions at scale**.
 
 ---
-
-## 📈 Currently Building Job-Ready Skills
-
-- 📐 Statistics fundamentals
-- 🎯 Probability basics
-- ⚡ SQL query optimization
-- 🔧 ML model tuning
-- 🧠 Business problem framing
-- 🗣️ Data storytelling & communication
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: [*(https://www.linkedin.com/in/mdeva-datasci/)*]
-- 📧 Email: *mdeva.avs@gmail.com*
+I’m open to:
+- 🤝 Collaborations on **AI, ML, and GenAI projects**
+- 💼 Opportunities in **Applied Data Science & GenAI**
+- 🧠 Knowledge sharing and practical problem-solving
 
-> 💡 **Open to Data Analyst / Junior Data Scientist opportunities**
+📌 **Explore my GitHub projects** to see how I build, learn, and apply AI in real-world scenarios.
 
----
-
-⭐ *If you like my work, consider starring my repositories — it really helps!*
+Thanks for visiting — let’s build meaningful AI systems together 🚀
