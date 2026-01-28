@@ -1,7 +1,7 @@
 <div align="center">
 ** 👋 Hi, I’m Devendhiran M**
 
-**Applied Data Scientist | AI & ML | GenAI**  
+**Gen AI Developer| Data Scientist | AI & ML**  
 **Python • SQL • AWS • APIs | LLMs • RAG & Prompt Engineering**  
 🚀 *Building scalable AI solutions aligned with real-world business needs*
 
