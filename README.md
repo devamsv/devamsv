@@ -2,7 +2,8 @@
 
 # 👋 Hi, I’m Devendhiran M
 
-### **AI & GenAI Engineer | Python, NLP & LLM Developer**
+### **AI & ML Engineer | Python, NLP & Generative AI Developer**
+
 *Building production-grade AI systems, RAG pipelines, and scalable Data Infrastructure.*
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdeva-datasci/)
