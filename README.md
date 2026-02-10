@@ -1,100 +1,55 @@
 <div align="center">
-** 👋 Hi, I’m Devendhiran M**
 
-**Gen AI Developer| Data Scientist | AI & ML**  
-**Python • SQL • AWS • APIs | LLMs • RAG & Prompt Engineering**  
-🚀 *Building scalable AI solutions aligned with real-world business needs*
+# 👋 Hi, I’m Devendhiran M
 
-<br>
+### **AI & GenAI Engineer | Python, NLP & LLM Developer**
+*Building production-grade AI systems, RAG pipelines, and scalable Data Infrastructure.*
 
-<a href="https://www.linkedin.com/in/mdeva-datasci/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:mdeva.avs@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdeva-datasci/)
+[![](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mdeva.avs@gmail.com)
+[![](https://img.shields.io/badge/Portfolio-View_Projects-black?style=for-the-badge&logo=github)](https://github.com/Devendhiran-M)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I am an **Applied Data Scientist** with a strong foundation in **Artificial Intelligence, Machine Learning, and Generative AI**, transitioning into data-driven system development after **9+ years of professional experience** in high-responsibility environments.
+I am an **AI & Machine Learning Engineer** focused on bridging the gap between research and production. With a strong background in **System Operations and Data Infrastructure**, I specialize in architecting **Retrieval-Augmented Generation (RAG)** systems, **Multi-Agent workflows**, and low-latency **Inference APIs**.
 
-I focus on building **scalable, practical AI solutions** that align with **real-world business needs, operational constraints, and measurable outcomes**.
+My work prioritizes **scalability, accuracy, and business impact**—moving beyond notebooks to deploy robust AI solutions using **Docker, FastAPI, and Cloud Services**.
 
-My approach to data science is **hands-on and execution-oriented** — moving beyond theory to **design, develop, test, and iterate** on AI systems that deliver value in production.
-
----
-
-## 🏗️ What I Build & Work On
-
-- 🤖 **RAG-based AI systems** for document and knowledge-centric use cases  
-- 💬 **LLM-powered applications** with controlled, reliable responses  
-- 📈 **Predictive ML solutions** for structured business data  
-- ⚙️ **End-to-end AI workflows** designed for scalability and robustness  
-- ☁️ Cloud-aware AI pipelines with deployment-ready architecture  
+* 🔭 **Currently working on:** Advanced RAG pipelines with Hybrid Search (Keyword + Semantic).
+* 🌱 **Deep diving into:** Fine-tuning Llama-3 (PEFT/LoRA) and Agentic Workflows.
+* 💡 **Core Philosophy:** "Ship reliable code, optimize for latency, and solve the user's problem."
 
 ---
 
-## 🛠️ Skills & Technical Stack
+## 🛠️ Technical Stack
 
-### 💻 Programming & Data
-- Python, SQL  
-- Data analysis, API integration, workflow automation  
+### **🤖 Generative AI & NLP**
+* **LLMs:** Llama-3, GPT-4, Gemini Pro, Mistral
+* **Frameworks:** LangChain, LlamaIndex, Hugging Face Transformers
+* **Techniques:** RAG, Chain-of-Thought Prompting, Fine-Tuning (LoRA), Hallucination Mitigation
+* **Vector Search:** FAISS, ChromaDB, Pinecone (Semantic & Hybrid Search)
 
-### 📊 Machine Learning & AI
-- Exploratory Data Analysis (EDA)  
-- Feature engineering & model evaluation  
-- Supervised & unsupervised learning  
-- Predictive modeling for structured data  
+### **🧠 Machine Learning & Data Science**
+* **Core:** Python, Scikit-learn, NumPy, Pandas
+* **Deep Learning:** PyTorch, TensorFlow, CNNs, RNNs/LSTMs
+* **Data Ops:** Feature Engineering, EDA, A/B Testing, SQL (Complex Queries)
 
-### 🤖 Generative AI & LLMs
-- Large Language Models (LLMs)  
-- Prompt engineering for reliable AI behavior  
-- Retrieval-Augmented Generation (RAG)  
-- Embeddings & vector databases for semantic search  
-
-### ☁️ Cloud & Deployment
-- AWS (foundational)  
-- Cloud-based AI & data workflows  
-- Deployment-aware system design  
-
-### 🧰 Tools & Frameworks
-- Git & GitHub  
-- Jupyter Notebook, VS Code  
-- REST APIs  
-
----
-
-## 🌟 Key Takeaways / Strengths
-
-- ✅ Strong **execution mindset** with ownership and accountability  
-- 🔄 Experience across the **end-to-end AI lifecycle**  
-- 🧠 Ability to translate **real-world requirements into structured AI solutions**  
-- 🧹 Focus on **clean, scalable, and maintainable systems**  
-- 📚 Continuous learner with a **production-oriented AI mindset**  
-
----
-
-## 🎯 Career Goals
-
-- Applied Data Scientist  
-- AI / ML Engineer  
-- GenAI Developer  
-
-I am particularly interested in **product-based companies and AI-driven startups** building **impactful, real-world AI solutions at scale**.
-
----
+### **⚙️ MLOps & Deployment**
+* **Backend:** FastAPI, Flask, RESTful API Design
+* **Infrastructure:** Docker (Containerization), AWS (EC2/S3 basics)
+* **Tools:** Git/GitHub, Streamlit, Jupyter, VS Code
 
 ## 🤝 Let’s Connect
 
-I’m open to:
-- 🤝 Collaborations on **AI, ML, and GenAI projects**
-- 💼 Opportunities in **Applied Data Science & GenAI**
-- 🧠 Knowledge sharing and practical problem-solving
+I am actively looking for opportunities as an **AI Engineer**, **GenAI Developer**, or **Data Scientist**. If you are building impactful AI products, let's talk.
 
-📌 **Explore my GitHub projects** to see how I build, learn, and apply AI in real-world scenarios.
+* **Location:** Salem, Tamilnadu, India
+* **Email:** mdeva.avs@gmail.com
 
-Thanks for visiting — let’s build meaningful AI systems together 🚀
+<div align="center">
+  <i>"Data is the fuel, but Engineering is the engine."</i>
+</div>
