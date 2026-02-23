@@ -76,7 +76,7 @@ My goal is simple:
 
 ### 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Devendhiran](https://www.linkedin.com/in/mdeva-datasci/)-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdeva-datasci/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdeva-datasci/)
 [![Gmail](https://img.shields.io/badge/Gmail-mdeva.avs@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdeva.avs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Devendhiran-M)
 
