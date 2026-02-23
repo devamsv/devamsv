@@ -70,25 +70,13 @@ My goal is simple:
 - Logging & Monitoring
 - Model Deployment Strategies
 
----
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Devendhiran-M&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devendhiran-M&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
 
 <div align="center">
 
 ### 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devendhiran-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdeva-datasci/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Devendhiran](https://www.linkedin.com/in/mdeva-datasci/)-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdeva-datasci/)
 [![Gmail](https://img.shields.io/badge/Gmail-mdeva.avs@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdeva.avs@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Devendhiran-M)
 
