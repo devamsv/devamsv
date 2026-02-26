@@ -4,7 +4,7 @@
 
 # 👋 Devendhiran M
 
-### 🚀 AI & ML Engineer | Generative AI Engineer | RAG Specialist
+### 🚀 AI & ML Engineer | Generative AI Engineer 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
