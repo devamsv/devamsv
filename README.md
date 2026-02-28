@@ -78,7 +78,7 @@ My goal is simple:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdeva-datasci/)
 [![Gmail](https://img.shields.io/badge/Gmail-mdeva.avs@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdeva.avs@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Devendhiran-M)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aideva.netlify.app/)
 
 <img src="https://komarev.com/ghpvc/?username=Devendhiran-M&label=Profile+Views&color=0e75b6&style=flat" />
 
