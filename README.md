@@ -4,7 +4,7 @@
 
 # 👋 Devendhiran M
 
-### 🚀 AI Engineer | Generative AI 
+### 🚀 AI Engineer | Generative AI Developer
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I am an **AI & Machine Learning Engineer** focused on building **production-grade Generative AI systems**.
+I am an **AI Engineer** focused on building **production-grade Generative AI systems**.
 
 I specialize in:
 
@@ -32,7 +32,7 @@ My goal is simple:
 # 🛠️ Skills
 
 ## 🤖 Generative AI & LLM Engineering
-- Llama-3, GPT-4, Gemini Pro, Mistral
+- Llama-3, GPT-4, Gemini Pro, Mistral, Claude
 - Prompt Engineering & Chain-of-Thought
 - RAG Architecture (Chunking, Embeddings, Retrieval)
 - Hybrid Search (BM25 + Vector Search)
@@ -42,7 +42,7 @@ My goal is simple:
 - Hugging Face Transformers
 - LangChain (Advanced)
 - LangGraph
-- CrewAI
+- CrewAI, AutoGen
 
 ---
 
