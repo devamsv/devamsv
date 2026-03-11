@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Devendhiran+M;AI+%26+ML+Engineer;Generative+AI+Developer;Building+Production-Ready+LLM+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Devendhiran+M;AI+%26+Engineer;Generative+AI+Developer;Building+Production-Ready+LLM+Systems" />
 
 # 👋 Devendhiran M
 
-### 🚀 AI & ML Engineer | Generative AI Engineer 
+### 🚀 AI Engineer | Generative AI 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
