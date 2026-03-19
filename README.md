@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Devendhiran+M;AI+Engineer;Generative+AI+Developer;Building+Production-Ready+LLM+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Devendhiran+M;AI-Powered+Data+Analyst;Generative+AI+Developer;Turning+Data+into+Business+Insights" />
 
 # 👋 Devendhiran M
 
-### 🚀 AI Engineer | Generative AI Developer
+### 🚀 AI-Powered Data Analyst | Generative AI Developer
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
@@ -14,63 +14,68 @@
 
 ## 🧠 About Me
 
-I am an **AI Engineer** focused on building **production-grade Generative AI systems**.
+I am an **AI-Powered Data Analyst and Generative AI Developer** focused on transforming raw data into actionable business insights and building intelligent AI-driven analytics solutions.
 
 I specialize in:
 
-- 🔹 Retrieval-Augmented Generation (RAG)
-- 🔹 Multi-Agent AI Systems (CrewAI / LangGraph)
-- 🔹 LLM Fine-Tuning (LoRA / PEFT)
-- 🔹 Hybrid Search (Semantic + Keyword)
-- 🔹 Low-latency AI APIs using FastAPI & Docker
+- 🔹 Predictive Analytics & Customer Behavior Modeling  
+- 🔹 Data Cleaning, EDA & Statistical Analysis  
+- 🔹 Dashboard Development (Power BI / Streamlit)  
+- 🔹 SQL-based Business Data Analysis  
+- 🔹 Machine Learning Model Development  
+- 🔹 Generative AI Applications (RAG, Prompt Engineering)  
+- 🔹 AI-assisted Analytics Automation  
 
 My goal is simple:  
-> **Build scalable AI systems that solve real business problems.**
+> **Use data and AI to drive smarter business decisions and measurable impact.**
 
 ---
 
 # 🛠️ Skills
 
-## 🤖 Generative AI & LLM Engineering
-- Llama-3, GPT-4, Gemini Pro, Mistral, Claude
-- Prompt Engineering & Chain-of-Thought
-- RAG Architecture (Chunking, Embeddings, Retrieval)
-- Hybrid Search (BM25 + Vector Search)
-- FAISS, ChromaDB, Pinecone
-- Hallucination Reduction Techniques
-- LLM Evaluation & Optimization
-- Hugging Face Transformers
-- LangChain (Advanced)
-- LangGraph
-- CrewAI, AutoGen
+## 📊 Data Analytics & Visualization
+- SQL (Advanced Joins, CTEs, Window Functions)
+- Power BI Dashboard Development
+- Advanced Excel (Power Query, Pivot Tables, KPI Reporting)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Feature Engineering
+- Business Reporting & Insight Generation
 
 ---
 
-## 🧠 Machine Learning & Deep Learning
-- Python (Advanced)
+## 🤖 Machine Learning & Predictive Analytics
+- Regression & Classification Models
+- Clustering Techniques
+- Model Evaluation & Tuning
 - Scikit-learn
-- PyTorch
-- TensorFlow
-- CNN, RNN, LSTM
-- Feature Engineering
-- Model Tuning & Evaluation
-- EDA & Statistical Analysis
-- SQL (Complex Queries)
+- XGBoost
+- Customer Churn Prediction
+- Statistical Analysis
 
 ---
 
-## ⚙️ Backend, APIs & MLOps
-- FastAPI
-- RESTful API Design
+## 🧠 Generative AI & AI Analytics
+- GPT, Gemini, Claude
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- LangChain Basics
+- AI Workflow Automation
+- LLM-powered Insight Generation
+- AI-assisted Reporting Systems
+
+---
+
+## ⚙️ Tools & Deployment
+- Streamlit App Development
+- FastAPI Basics
 - Docker (Containerization)
 - Git & GitHub
-- Streamlit
-- AWS (EC2, S3 Basics)
-- CI/CD Fundamentals
-- Logging & Monitoring
-- Model Deployment Strategies
+- AWS EC2 & S3 (Basics)
+- REST API Integration
+- Analytics Project Deployment
 
-
+---
 
 <div align="center">
 
