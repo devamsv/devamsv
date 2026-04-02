@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I am an **AI-Powered Data Analyst and Generative AI Developer** focused on transforming raw data into actionable business insights and building intelligent AI-driven analytics solutions.
+I am an **AI / ML Engineer and Generative AI Developer** focused on transforming raw data into actionable business insights and building intelligent AI-driven solutions.
 
 I specialize in:
 
