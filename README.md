@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Devendhiran+M;AI-Powered+Data+Analyst;Generative+AI+Developer;Turning+Data+into+Business+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Devendhiran+M;AI-ML+Engineer;Generative+AI+Developer" />
 
 # 👋 Devendhiran M
 
-### 🚀 AI-Powered Data Analyst | Generative AI Developer
+### 🚀 AI / ML Engineer| Generative AI Developer
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
