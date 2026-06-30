@@ -1,10 +1,11 @@
+```markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Devendhiran+M;AI-ML+Engineer;Generative+AI+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Devendhiran+M;AI+%26+Generative+AI+Trainer;AI+Engineer;Empowering+Future+AI+Professionals" />
 
 # 👋 Devendhiran M
 
-### 🚀 AI / ML Engineer| Generative AI Developer
+### 🚀 AI & Generative AI Trainer | AI Engineer
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
@@ -14,66 +15,70 @@
 
 ## 🧠 About Me
 
-I am an **AI / ML Engineer and Generative AI Developer** focused on transforming raw data into actionable business insights and building intelligent AI-driven solutions.
+I am an **AI & Generative AI Trainer and AI Engineer** passionate about empowering students and professionals with industry-ready AI skills through hands-on learning and real-world projects.
+
+Currently, I deliver training on **Python, Machine Learning, Deep Learning, NLP, Computer Vision, Large Language Models (LLMs), and Generative AI** while mentoring learners to build practical AI solutions and accelerate their careers.
 
 I specialize in:
 
-- 🔹 Predictive Analytics & Customer Behavior Modeling  
-- 🔹 Data Cleaning, EDA & Statistical Analysis  
-- 🔹 Dashboard Development (Power BI / Streamlit)  
-- 🔹 SQL-based Business Data Analysis  
-- 🔹 Machine Learning Model Development  
-- 🔹 Generative AI Applications (RAG, Prompt Engineering)  
-- 🔹 AI-assisted Analytics Automation  
+- 🔹 AI & Generative AI Training
+- 🔹 Python for Data Science and AI
+- 🔹 Machine Learning & Deep Learning
+- 🔹 Large Language Models (LLMs)
+- 🔹 Retrieval-Augmented Generation (RAG)
+- 🔹 Agentic AI & AI Automation
+- 🔹 Real-World AI Project Development
+- 🔹 Career Mentorship & Interview Preparation
 
-My goal is simple:  
-> **Use data and AI to drive smarter business decisions and measurable impact.**
+My mission is simple:
+
+> **Empower learners with job-ready AI skills and build practical AI solutions for real-world challenges.**
 
 ---
 
 # 🛠️ Skills
 
-## 📊 Data Analytics & Visualization
-- SQL (Advanced Joins, CTEs, Window Functions)
-- Power BI Dashboard Development
-- Advanced Excel (Power Query, Pivot Tables, KPI Reporting)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Feature Engineering
-- Business Reporting & Insight Generation
+## 🎓 AI Training & Mentorship
+- AI & Generative AI Training
+- Curriculum Development
+- Hands-on Project Mentorship
+- Career Guidance & Placement Support
+- Technical Workshops & Bootcamps
+- Resume Building & Interview Preparation
 
 ---
 
-## 🤖 Machine Learning & Predictive Analytics
-- Regression & Classification Models
-- Clustering Techniques
-- Model Evaluation & Tuning
-- Scikit-learn
-- XGBoost
-- Customer Churn Prediction
-- Statistical Analysis
-
----
-
-## 🧠 Generative AI & AI Analytics
-- GPT, Gemini, Claude
-- Prompt Engineering
+## 🤖 Artificial Intelligence & Generative AI
+- Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- LangChain Basics
+- Prompt Engineering
+- LangChain, LangGraph & CrewAI
+- Agentic AI Systems
 - AI Workflow Automation
-- LLM-powered Insight Generation
-- AI-assisted Reporting Systems
+- Semantic Search Systems
 
 ---
 
-## ⚙️ Tools & Deployment
-- Streamlit App Development
-- FastAPI Basics
-- Docker (Containerization)
-- Git & GitHub
-- AWS EC2 & S3 (Basics)
+## 📊 Data Science & Machine Learning
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Machine Learning Algorithms
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Scikit-learn, TensorFlow, PyTorch
+- Feature Engineering & Model Evaluation
+
+---
+
+## ⚙️ AI Engineering & Deployment
+- FastAPI
+- Streamlit
+- Vector Databases (FAISS, ChromaDB)
 - REST API Integration
-- Analytics Project Deployment
+- Docker
+- Git & GitHub
+- AWS (EC2, S3 Basics)
+- AI Application Deployment
 
 ---
 
@@ -88,3 +93,4 @@ My goal is simple:
 <img src="https://komarev.com/ghpvc/?username=Devendhiran-M&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
+```
