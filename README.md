@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Devendhiran+M;AI+%26+Generative+AI+Trainer;AI+Engineer;Empowering+Future+AI+Professionals" />
@@ -93,4 +93,4 @@ My mission is simple:
 <img src="https://komarev.com/ghpvc/?username=Devendhiran-M&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
-```
+
