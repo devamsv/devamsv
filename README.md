@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Devendhiran+M;AI+%26+Generative+AI+Trainer;AI+Engineer;Empowering+Future+AI+Professionals" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=DEVENDHIRAN+M;AI+%26+Generative+AI+Trainer;AI+Engineer;Empowering+Future+AI+Professionals" />
 
-# 👋 Devendhiran M
+# 👋 DEVENDHIRAN M
 
-### 🚀 AI & Generative AI Trainer | AI Engineer
+###  AI & Generative AI Trainer | AI Engineer
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
